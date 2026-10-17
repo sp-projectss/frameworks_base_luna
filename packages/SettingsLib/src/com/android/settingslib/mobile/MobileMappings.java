@@ -204,7 +204,7 @@ public class MobileMappings {
                 config.mobileIconGroup5gPlus);
         networkToIconLookup.put(toIconKey(
                 TelephonyManager.NETWORK_TYPE_NR),
-                TelephonyIcons.NR_5G_SA);
+                TelephonyIcons.NR_5G);
         return networkToIconLookup;
     }
 
